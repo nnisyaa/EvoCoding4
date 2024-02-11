@@ -28,7 +28,7 @@
     .mobile-header{
         background-size: cover;
         background-image: url(https://www.w3schools.com/w3images/architect.jpg);
-        height: 318px;
+        height: 53vw;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -63,9 +63,7 @@
     hr{
         color: #f1f1f1;
         margin-top: 15px;
-    }
-    .line{
-        margin-top: 45px;
+        margin-bottom: 40px;
     }
     .line-element{
         margin-top: 10px;
